@@ -1,0 +1,6 @@
+#! /bin/bash
+# This file is for Lab #6
+
+echo "My last name is Hidalgo."
+
+
